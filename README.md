@@ -16,6 +16,27 @@ The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to
 - Released twice a year.
 - Free to download and use.
 
+## Available Releases
+
+> **Note**
+>
+> Arm GNU Toolchain releases are maintained on separate branches within this repository. Use the links in the table below to navigate directly to a specific release and access its documentation and download artifacts.
+
+| Release | Branch |
+|----------|----------|
+| [Arm GNU Toolchain 15.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.2.rel1?ref_type=heads) | `releases/15.2.rel1` |
+| [Arm GNU Toolchain 14.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.3.rel1?ref_type=heads) | `releases/14.3.rel1` |
+| [Arm GNU Toolchain 14.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.2.rel1?ref_type=heads) | `releases/14.2.rel1` |
+| [Arm GNU Toolchain 13.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/13.3.rel1?ref_type=heads) | `releases/13.3.rel1` |
+| [Arm GNU Toolchain 13.2.Rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/13.2.Rel1?ref_type=heads) | `releases/13.2.Rel1` |
+| [Arm GNU Toolchain 12.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.3.rel1?ref_type=heads) | `releases/12.3.rel1` |
+| [Arm GNU Toolchain 12.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.rel1?ref_type=heads) | `releases/12.2.rel1` |
+| [Arm GNU Toolchain 12.2.mpacbti-rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.mpacbti-rel1?ref_type=heads) | `releases/12.2.mpacbti-rel1` |
+| [Arm GNU Toolchain 12.2.mpacbti-bet1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.mpacbti-bet1?ref_type=heads) | `releases/12.2.mpacbti-bet1` |
+| [Arm GNU Toolchain 11.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.3.rel1?ref_type=heads) | `releases/11.3.rel1` |
+| [Arm GNU Toolchain 11.2-2022.02](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.2-2022.02?ref_type=heads) | `releases/11.2-2022.02` |
+
+
 ## Quality Policy
 
 Arm GNU Toolchain releases are tested using the respective test suites of the source projects to ensure there are no new regressions that affect the quality. However, these releases are:
