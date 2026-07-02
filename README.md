@@ -24,6 +24,7 @@ The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to
 
 | Release | Branch |
 |----------|----------|
+| [Arm GNU Toolchain 15.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.3.rel1?ref_type=heads) | `releases/15.3.rel1` |
 | [Arm GNU Toolchain 15.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.2.rel1?ref_type=heads) | `releases/15.2.rel1` |
 | [Arm GNU Toolchain 14.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.3.rel1?ref_type=heads) | `releases/14.3.rel1` |
 | [Arm GNU Toolchain 14.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.2.rel1?ref_type=heads) | `releases/14.2.rel1` |
