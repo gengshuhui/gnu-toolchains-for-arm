@@ -4,7 +4,7 @@
 
 The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to as **Arm GNU Toolchain**) enable partners, developers, and the community to use new features from recent Arm Architecture and from open-source projects GCC, Binutils, glibc, Newlib, and GDB.
 
-> **Note:** Arm GNU Toolchain releases previously published on the [Arm Developer downloads page](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads) are now hosted in this space.
+> **Note:** Arm GNU Toolchain releases previously published on the [Arm Developer downloads page](https://developer.arm.com/tools-and-software/gnu-toolchain#Downloads) are now hosted in this space.
 
 ## Features
 
@@ -52,12 +52,6 @@ Arm GNU Toolchain releases aim to provide easy access to the latest features on 
 
 Read the **Get Help** section to find out the best way to get community support. If you wish to make any contributions, those should be made directly to the open-source projects following their respective processes.
 
-> **Note:** GNU Toolchain releases from Arm were previously published as two separate releases:
->
-> - [GNU Toolchain for A-profile processors](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-a/downloads)
-> - [GNU Arm Embedded Toolchain (R-profile and M-profile)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
->
-> Arm GNU Toolchain releases unify these two into a single release, and the previous release model has therefore been discontinued. However, the previous releases will continue to be available for reference.
 
 ## Contributions
 
