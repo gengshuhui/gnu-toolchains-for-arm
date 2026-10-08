@@ -4,18 +4,6 @@
 
 The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to as **Arm GNU Toolchain**) enable partners, developers, and the community to use new features from recent Arm Architecture and from open-source projects GCC, Binutils, glibc, Newlib, and GDB.
 
-> **Note:** Arm GNU Toolchain releases previously published on the [Arm Developer downloads page](https://developer.arm.com/tools-and-software/gnu-toolchain#Downloads) are now hosted in this space.
-
-## Features
-
-- Contains integrated and validated packages.
-- Supports C and C++ languages.
-- Supports CPUs based on the A, R, and M profiles of the Arm architecture (including Cortex-A, Cortex-R, Cortex-M, and Neoverse processors).
-- Provides cross-toolchains for Microsoft Windows (x86), Linux (x86_64 and AArch64), and macOS (x86_64) host operating systems.
-- Provides different variants of the toolchain which can be used for bare-metal embedded development and for Linux kernel and application development.
-- Released twice a year.
-- Free to download and use.
-
 ## Available Releases
 
 > **Note**
@@ -24,6 +12,7 @@ The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to
 
 | Release | Branch |
 |----------|----------|
+| [Arm GNU Toolchain 15.3.rel2](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.3.rel2?ref_type=heads) | `releases/15.3.rel2` |
 | [Arm GNU Toolchain 15.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.3.rel1?ref_type=heads) | `releases/15.3.rel1` |
 | [Arm GNU Toolchain 15.2.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/15.2.rel1?ref_type=heads) | `releases/15.2.rel1` |
 | [Arm GNU Toolchain 14.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/14.3.rel1?ref_type=heads) | `releases/14.3.rel1` |
@@ -36,6 +25,16 @@ The GNU Toolchain for the Arm Architecture releases produced by Arm (referred to
 | [Arm GNU Toolchain 12.2.mpacbti-bet1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/12.2.mpacbti-bet1?ref_type=heads) | `releases/12.2.mpacbti-bet1` |
 | [Arm GNU Toolchain 11.3.rel1](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.3.rel1?ref_type=heads) | `releases/11.3.rel1` |
 | [Arm GNU Toolchain 11.2-2022.02](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.2-2022.02?ref_type=heads) | `releases/11.2-2022.02` |
+
+## Features
+
+- Contains integrated and validated packages.
+- Supports C and C++ languages.
+- Supports CPUs based on the A, R, and M profiles of the Arm architecture (including Cortex-A, Cortex-R, Cortex-M, and Neoverse processors).
+- Provides cross-toolchains for Microsoft Windows (x86), Linux (x86_64 and AArch64), and macOS (x86_64) host operating systems.
+- Provides different variants of the toolchain which can be used for bare-metal embedded development and for Linux kernel and application development.
+- Released twice a year.
+- Free to download and use.
 
 
 ## Quality Policy
